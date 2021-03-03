@@ -106,14 +106,14 @@ function Portfolio() {
 
                 <div className="col-md-4">
                     <div className="card">
-                        <img src="https://i.postimg.cc/YSCs1pZg/Screen-Shot-2021-02-23-at-8-49-27-PM.png" className="card-img-top"
+                        <img src="https://raw.githubusercontent.com/Elias-Calagiu/online-offline-budget-tracker/main/budget%20tracker%20screenshot.PNG" className="card-img-top"
                             alt="screenshot of progressive budget" />
                         <div className="card-body">
                             <h5>Progressive Budget</h5>
                             <p>This budget tracker allows users to add and save income and expenses while they do not have internet access and reflects those changes when back online</p>
                             <div className="row">
                                 <div className="col">
-                                    <a href="google" target="_blank" className="btn btn-success">Live Deployment</a>
+                                    <a href="https://radiant-ravine-10806.herokuapp.com/" className="btn btn-success">Live Deployment</a>
                                 </div>
                                 <div className="col">
                                     <a href="https://github.com/Elias-Calagiu/online-offline-budget-tracker" className="btn btn-success">GitHub Repository</a>
