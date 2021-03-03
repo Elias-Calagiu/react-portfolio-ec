@@ -10,7 +10,7 @@ export default function About() {
                             <div className="card-body">
                                 <h1 className="card-title">About Me</h1>
                                 <img src = "https://raw.githubusercontent.com/Elias-Calagiu/react-portfolio-ec/main/facebook%20profile%20picture%20cropped.PNG"/>
-                                <p className="card-text">My name is Elias. I hope to one day become a software engineer at Amazon. Eventually, I hope to develop video games for Nintendo.</p>
+                                <p className="card-text">Hello, everyone! My name is Elias and I am just finishing the first step on my journey to becoming a full-fledged web developer. Eventually, I hope to develop video games for Nintendo.</p>
 
 
                             </div>
